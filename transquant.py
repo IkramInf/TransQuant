@@ -8,9 +8,6 @@ A user-friendly pipeline for RNA-Seq data analysis that includes:
 - Read alignment with HISAT2
 - BAM file processing with Samtools
 - Read counting with HTSeq
-
-Author: Claude
-Date: March 21, 2025
 """
 
 import os
