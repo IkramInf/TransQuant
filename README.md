@@ -192,4 +192,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 Email - ikraminf.dev@gmail.com
+  
 Project Link: [https://github.com/IkramInf/TransQuant](https://github.com/IkramInf/TransQuant)
